@@ -1,6 +1,8 @@
 # Convolutional Neural Network of Density Maps for Crowd Counting
 
-> White paper presented in July 2020 for the final exam in "Cognitive Services and Computer Vision" of the Master's Degree in Computer Science at the University of Padova.
+> White paper for the final exam of the "Vision and Cognitive Services" course at the University of Padova. This paper has been presented in July 2020.
+
+![CNN Architecture](img/architecture.jpg)
 
 ## Abstract
 
@@ -13,6 +15,14 @@ relevant features of other models recently introduced in the literature. To demo
 effectiveness of the proposed method, we conduct extensive experiments on 2 public crowd counting
 datasets. Through extensive experiments, we were able to get 92.8 and 16.9 as MAE, 148.2 and 28.1 as
 MSE in two difficult datasets: ShanghaiTech part A and B respectively.
+
+## Paper
+
+You can find the white paper in [pdf/paper.pdf](pdf/paper.pdf).
+
+## Slides
+
+You can find the presentation slides in [pdf/slides.pdf](pdf/slides.pdf).
 
 ## Team
 
